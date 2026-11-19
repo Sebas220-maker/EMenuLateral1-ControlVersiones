@@ -38,5 +38,8 @@ fun AcercaDeScreen() {
             text = "Aplicación de ejemplo que implementa navegación lateral con Jetpack Compose y Material 3.",
             modifier = Modifier.padding(top = 16.dp)
         )
+        Text(
+            text = "Práctica de control de versiones con Git y GitHub."
+        )
     }
 }
